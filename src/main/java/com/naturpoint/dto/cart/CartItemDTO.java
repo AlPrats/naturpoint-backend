@@ -1,4 +1,4 @@
-package com.naturpoint.dto;
+package com.naturpoint.dto.cart;
 
 import com.naturpoint.model.Cart;
 import com.naturpoint.model.Product;

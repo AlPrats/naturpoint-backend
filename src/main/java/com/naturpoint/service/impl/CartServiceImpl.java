@@ -1,8 +1,8 @@
 package com.naturpoint.service.impl;
 
-import com.naturpoint.dto.AddToCartDTO;
-import com.naturpoint.dto.CartDTO;
-import com.naturpoint.dto.CartItemDTO;
+import com.naturpoint.dto.cart.AddToCartDTO;
+import com.naturpoint.dto.cart.CartDTO;
+import com.naturpoint.dto.cart.CartItemDTO;
 import com.naturpoint.exception.ModelNotFoundException;
 import com.naturpoint.model.Cart;
 import com.naturpoint.model.Product;

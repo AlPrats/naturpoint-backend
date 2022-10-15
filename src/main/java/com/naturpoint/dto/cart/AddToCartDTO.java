@@ -1,4 +1,4 @@
-package com.naturpoint.dto;
+package com.naturpoint.dto.cart;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

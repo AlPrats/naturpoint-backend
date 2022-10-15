@@ -1,7 +1,7 @@
 package com.naturpoint.service;
 
-import com.naturpoint.dto.AddToCartDTO;
-import com.naturpoint.dto.CartDTO;
+import com.naturpoint.dto.cart.AddToCartDTO;
+import com.naturpoint.dto.cart.CartDTO;
 import com.naturpoint.model.Cart;
 import com.naturpoint.security.model.User;
 
